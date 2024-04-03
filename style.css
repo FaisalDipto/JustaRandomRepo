@@ -1,0 +1,15 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-color: #1c8abd;
+}
+.sign-up-form
+{
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+    text-align : center;
+}
